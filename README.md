@@ -1,4 +1,4 @@
-# [ukso]
+# --
 
 Developer. I build tools, pull software apart to see how it works, and write clean APIs.
 
