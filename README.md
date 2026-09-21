@@ -16,9 +16,9 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 
 ### Featured projects
 
-**[ProtonAdvisor](https://github.com/uksoKon/ProtonAdvisor)** — Checks a game's ProtonDB compatibility and notifies you before it launches, via a Steam or Lutris hook.
+**[ProtonAdvisor](https://github.com/uksoKon/ProtonAdvisor)** > Checks a game's ProtonDB compatibility and notifies you before it launches, via a Steam or Lutris hook.
 
-**[EzAutoclicker](https://github.com/uksoKon/EzAutoclicker)** — Lightweight C++ autoclicker for Linux and Windows with a configurable hotkey and 100-900 CPS control.
+**[EzAutoclicker](https://github.com/uksoKon/EzAutoclicker)** > Lightweight C++ autoclicker for Linux and Windows with a configurable hotkey and 100-900 CPS control.
 
 <div align="center">
 
