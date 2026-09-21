@@ -4,6 +4,12 @@ Developer. I build tools, pull software apart to see how it works, and write cle
 
 Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 
+### Featured projects
+
+**[ProtonAdvisor](https://github.com/uksoKon/ProtonAdvisor)** — Checks a game's ProtonDB compatibility and notifies you before it launches, via a Steam or Lutris hook.
+
+**[EzAutoclicker](https://github.com/uksoKon/EzAutoclicker)** — Lightweight C++ autoclicker for Linux and Windows with a configurable hotkey and 100-900 CPS control.
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -27,6 +33,19 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+
+### GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uksoKon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uksoKon&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img alt="uksoKon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=uksoKon&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
+  <img alt="uksoKon's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
+</picture>
 
 ### Elsewhere
 
