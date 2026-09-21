@@ -1,5 +1,7 @@
 # About me
 
+![Profile views](https://komarev.com/ghpvc/?username=uksoKon&style=flat-square&color=blue)
+
 Developer. I build tools, pull software apart to see how it works, and write clean APIs.
 
 Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
@@ -17,6 +19,7 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -29,6 +32,7 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 ![Arch Linux](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -45,6 +49,22 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=tokyonight&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
   <img alt="uksoKon's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
+</picture>
+
+### Trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=uksoKon&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=uksoKon&theme=flat&no-frame=true&row=1&column=6" />
+  <img alt="uksoKon's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=uksoKon&theme=flat&no-frame=true&row=1&column=6" />
+</picture>
+
+### Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake.svg" />
+  <img alt="uksoKon's contribution snake animation" src="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ### Elsewhere
