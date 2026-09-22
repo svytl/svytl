@@ -20,9 +20,9 @@ Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 
 **[EzAutoclicker](https://github.com/uksoKon/EzAutoclicker)** > Lightweight C++ autoclicker for Linux and Windows with a configurable hotkey and 100-900 CPS control.
 
-**[prefixdiff](https://github.com/uksoKon/prefixdiff)** > Snapshots a Wine/Proton prefix and diffs two snapshots to show exactly what a Proton update, Steam update, or winetricks run actually changed — registry, DLL overrides, installed programs, system32 DLLs.
+**[prefixdiff](https://github.com/uksoKon/prefixdiff)** > Snapshots a Wine/Proton prefix and diffs two snapshots to show exactly what a Proton update, Steam update, or winetricks run actually changed > registry, DLL overrides, installed programs, system32 DLLs.
 
-**[vrcpresence](https://github.com/uksoKon/vrcpresence)** > VRChat Discord Rich Presence for Linux — world thumbnail, live headcount, VR/Desktop badge and a Join button, read from VRChat's log instead of OSC. Plus chatbox status and local session history.
+**[vrcpresence](https://github.com/uksoKon/vrcpresence)** > VRChat Discord Rich Presence for Linux > world thumbnail, live headcount, VR/Desktop badge and a Join button, read from VRChat's log instead of OSC. Plus chatbox status and local session history.
 
 <div align="center">
 
