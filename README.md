@@ -3,9 +3,9 @@
 
 </div>
 
-Developer. I build tools, pull software apart to see how it works, and write clean APIs.
+# Developer. I build tools, pull software apart to see how it works, and write clean APIs.
 
-Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
+# Daily driver is CachyOS. I end up on Windows sometimes, but I'd rather not.
 
 ### Featured projects
 
