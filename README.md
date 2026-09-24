@@ -1,5 +1,5 @@
-
-  ![Profile views](https://komarev.com/ghpvc/?username=uksoKon&style=for-the-badge&color=5865F2)
+![Profile views](https://komarev.com/ghpvc/?username=uksoKon&style=for-the-badge&color=5865F2)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ukso)
 
   </div>
 
