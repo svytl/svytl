@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:5865F2&height=220&section=header&text=ukso&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%40uksoKon&descAlignY=55&descSize=18" width="100%" alt="header" />
-
-<a href="https://github.com/uksoKon">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=5865F2&center=true&vCenter=true&width=600&lines=Systems+tinkerer;C%2B%2B+%2F+TypeScript+%2F+Python;Break+it+to+see+how+it+works;Linux+(btw)" alt="typing banner" />
-</a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=uksoKon&style=for-the-badge&color=5865F2)
 
