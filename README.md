@@ -48,16 +48,16 @@
 ### Streak
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
-  <img alt="uksoKon's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uksoKon&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=luanpotter&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=luanpotter&theme=default&hide_border=true" />
+  <img alt="uksoKon's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luanpotter&theme=default&hide_border=true" />
 </picture>
 
 ### Contribution activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanpotter/luanpotter/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanpotter/luanpotter/output/github-contribution-grid-snake.svg" />
   <img alt="uksoKon's contribution snake animation" src="https://raw.githubusercontent.com/uksoKon/uksoKon/output/github-contribution-grid-snake.svg" />
 </picture>
 
